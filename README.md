@@ -1,7 +1,7 @@
 h1 align="center">Hi there, I'm Marino Barić! 👋</h1>
 
 <p align="center">
-  <a href="https://www.rit.edu/"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Rochester_Institute_of_Technology_seal.svg/1024px-Rochester_Institute_of_Technology_seal.svg.png" width="100" alt="RIT Logo"> </a>
+  <a href="https://www.rit.edu/"> <img src="assets/rit-logo.svg" width="120" alt="RIT Logo"> </a>
 </p>
 
 <h3 align="center">🎓 Student at RIT Croatia | 💻 Aspiring Software Developer</h3>
