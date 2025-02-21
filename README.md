@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.rit.edu/"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Rochester_Institute_of_Technology_Seal_%282018%29.svg" width="120" alt="RIT Logo"> 
+    <img src="https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology#/media/File:Rochester_Institute_of_Technology_Seal_(2018).svg" width="120" alt="RIT Logo"> 
   </a>
 </p>
 
