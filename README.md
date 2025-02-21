@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi there, I'm Marino Barić! 👋</h1>
 
 <p align="center">
