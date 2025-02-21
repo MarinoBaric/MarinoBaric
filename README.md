@@ -1,8 +1,9 @@
+```md
 <h1 align="center">Hi there, I'm Marino Barić! 👋</h1>
 
 <p align="center">
   <a href="https://www.rit.edu/"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/RIT_seal.png" width="120" alt="RIT Logo"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Rochester_Institute_of_Technology_Seal_%282018%29.svg" width="120" alt="RIT Logo"> 
   </a>
 </p>
 
@@ -24,8 +25,10 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java Logo"/>
+  <br>Java
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python Logo"/>
+  <br>Python
 </p>
 
 ---
@@ -43,11 +46,11 @@
 ### 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marino-bari%C4%87-463299331/" target="_blank">
+  <a href="https://www.linkedin.com/in/marino-baric" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&border-radius=10" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:mb8561@rit.edu">
+  <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&border-radius=10" alt="Email"/>
   </a>
 </p>
