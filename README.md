@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Marino Barić! 👋</h1>
 
-<!--
-**MarinoBaric/MarinoBaric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.rit.edu/"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Rochester_Institute_of_Technology_seal.svg/1024px-Rochester_Institute_of_Technology_seal.svg.png" width="100" alt="RIT Logo"> </a>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">🎓 Student at RIT Croatia | 💻 Aspiring Software Developer</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 🎓 I am currently a **student at RIT Croatia** studying **Web and Mobile Computing**.
+- 🌱 I am currently learning **Java**.
+- 🐍 Previously, I learned **Python** and have experience with its frameworks and libraries.
+- ⚡ Passionate about coding, problem-solving, and software development.
+- 📚 Always eager to learn new technologies and improve my skills.
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java Logo"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python Logo"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarinoBaric&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarinoBaric&theme=dark" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/marino-bari%C4%87-463299331/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:mb8561@rit.edu>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+⭐️ **Keep Learning. Keep Building. Keep Growing.** 🚀
