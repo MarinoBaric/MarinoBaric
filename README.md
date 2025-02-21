@@ -16,8 +16,6 @@ h1 align="center">Hi there, I'm Marino Barić! 👋</h1>
 - ⚡ Passionate about coding, problem-solving, and software development.
 - 📚 Always eager to learn new technologies and improve my skills.
 
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7K3BhSpAxZBznislvUMVtn?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
 ---
 
 ### 🛠️ Tech Stack
