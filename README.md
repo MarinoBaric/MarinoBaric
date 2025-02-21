@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Marino Barić! 👋</h1>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7K3BhSpAxZBznislvUMVtn?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <p align="center">
   <a href="https://www.rit.edu/"> <img src="assets/rit-logo.svg" width="120" alt="RIT Logo"> </a>
@@ -52,5 +51,16 @@
 </p>
 
 ---
+
+---
+
+### 🎵 Favorite Music Track
+
+<p align="center">
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7K3BhSpAxZBznislvUMVtn?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</p>
+
+---
+
 
 ⭐️ **Keep Learning. Keep Building. Keep Growing.** 🚀
