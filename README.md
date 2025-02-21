@@ -1,10 +1,7 @@
-
-<h1 align="center">Hi there, I'm Marino Barić! 👋</h1>
+h1 align="center">Hi there, I'm Marino Barić! 👋</h1>
 
 <p align="center">
-  <a href="https://www.rit.edu/"> 
-    <img src="https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology#/media/File:Rochester_Institute_of_Technology_Seal_(2018).svg" width="120" alt="RIT Logo"> 
-  </a>
+  <a href="https://www.rit.edu/"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Rochester_Institute_of_Technology_seal.svg/1024px-Rochester_Institute_of_Technology_seal.svg.png" width="100" alt="RIT Logo"> </a>
 </p>
 
 <h3 align="center">🎓 Student at RIT Croatia | 💻 Aspiring Software Developer</h3>
@@ -25,10 +22,8 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java Logo"/>
-  
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python Logo"/>
-  
 </p>
 
 ---
@@ -36,9 +31,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarinoBaric&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MarinoBaric&show_icons=true&theme=dark" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarinoBaric&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarinoBaric&theme=dark" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -46,12 +41,12 @@
 ### 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marino-baric" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&border-radius=10" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/marino-bari%C4%87-463299331/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&border-radius=10" alt="Email"/>
+  <a href="mailto:mb8561@rit.edu>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
