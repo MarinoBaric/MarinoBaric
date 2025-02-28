@@ -80,10 +80,10 @@
 
 <div align="center">
   
-  <a href="https://github.com/MarinoBaric/project-1">
+  <a href="(https://github.com/MarinoBaric/Personal-Finance-Calculator-Page.git)">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarinoBaric&repo=project-1&theme=react" />
   </a>
-  <a href="https://github.com/MarinoBaric/project-2">
+  <a href="(https://github.com/MarinoBaric/Personal-Finance-Tracker.git)">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarinoBaric&repo=project-2&theme=react" />
   </a>
   
