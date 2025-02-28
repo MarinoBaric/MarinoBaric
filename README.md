@@ -80,11 +80,11 @@
 
 <div align="center">
   
-  <a href="(https://github.com/MarinoBaric/Personal-Finance-Calculator-Page.git)">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarinoBaric&repo=project-1&theme=react" />
+  <a href="https://github.com/MarinoBaric/Personal-Finance-Calculator-Page">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarinoBaric&repo=Personal-Finance-Calculator-Page&theme=react" />
   </a>
-  <a href="(https://github.com/MarinoBaric/Personal-Finance-Tracker.git)">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarinoBaric&repo=project-2&theme=react" />
+  <a href="https://github.com/MarinoBaric/Personal-Finance-Tracker">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarinoBaric&repo=Personal-Finance-Tracker&theme=react" />
   </a>
   
 </div>
@@ -119,7 +119,7 @@ mindmap
   
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mb8561@rit.edu)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marino-baric)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]((https://x.com/trends_dailly))
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/trends_dailly)
 
 </div>
 
